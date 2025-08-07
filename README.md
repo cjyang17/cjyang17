@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm CJ Yang 👋
 
-<!--
-**cjyang17/cjyang17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data & Business Analyst with a passion for solving real-world problems through data. I specialize in SQL, Python, Tableau, and statistical modeling.
 
-Here are some ideas to get you started:
+## 🔍 What You’ll Find Here:
+- 🎯 [Customer Segmentation using RFM Modeling](https://github.com/your-username/rfm-customer-segmentation)
+- 📉 [Churn Prediction with Logistic Regression](https://github.com/your-username/churn-prediction)
+- 📊 [Retail Sales Dashboard in Tableau](https://github.com/your-username/retail-sales-dashboard)
+- 🛠 [SQL Projects](https://github.com/your-username/sql-portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Skills
+**Languages**: SQL, Python, Excel  
+**Visualization**: Tableau, Power BI, Looker  
+**Techniques**: A/B Testing, Regression, Forecasting, Data Cleaning  
+
+---
+
+📝 [Resume]([https://docs.google.com/document/d/1q513jtTKEn46wB24IA7Ow24Rk9SpV8f2UaJHWJX_IvQ/edit?usp=sharing]) | 💼 [LinkedIn]([(https://www.linkedin.com/in/changjiang-yang/]) | ✉️ [Email]([mailto:changjiang.y17@gmail.com])
